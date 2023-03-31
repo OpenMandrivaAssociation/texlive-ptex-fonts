@@ -1,6 +1,6 @@
 Name:		texlive-ptex-fonts
 Version:	64330
-Release:	1
+Release:	2
 Summary:	Fonts for use with pTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ptex-fonts
