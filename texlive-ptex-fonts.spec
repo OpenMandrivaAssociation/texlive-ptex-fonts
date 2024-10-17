@@ -3,7 +3,7 @@ Version:	64330
 Release:	2
 Summary:	Fonts for use with pTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ptex-fonts
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ptex-fonts
 License:	bsd3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ptex-fonts.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ptex-fonts.doc.r%{version}.tar.xz
